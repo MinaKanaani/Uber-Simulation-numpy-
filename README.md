@@ -1,0 +1,2 @@
+# Uber-Simulation-numpy-
+Like any other fascinating  creation of 21st century, the market of Online Taxi swiftly dominate the world. The convenience and safety which is offered by them was the main reason it was able to eliminate the Traditional Taxi and Transportation Systems and  rule the century of Technology.  But how do they do this? how is the app and algorithm works? These are the question that were pondering in my mind when I decided to simulate the basic app using Python programming, specifically Numpy library in order to put my curious mind to rest. 
